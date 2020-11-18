@@ -1,2 +1,2 @@
 # Tic-Tac-Toe React.Js
-[vedio](tic-tac-toe.webm)]
+[(tic-tac-toe.png)](tic-tac-toe.webm)]
