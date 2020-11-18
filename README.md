@@ -1,2 +1,4 @@
 # Tic-Tac-Toe React.Js
-![tic-tac-toe.PNG](tic-tac-toe.webm)
+![Vidéo](tic-tac-toe.webm)
+
+![](tic-tac-toe.PNG)
